@@ -1,7 +1,7 @@
 ---
 name: Wrong data report
 about: Create a report for wrong data in sf6boxes
-title: "[WRONG DATA] Wrong data report for X character"
+title: "[WRONG DATA] Wrong data report"
 labels: Wrong data
 assignees: happye921
 
@@ -14,10 +14,10 @@ Fill out the character name here. Only report a single character at a time.
 Copy and paste the move URL using the `COPY URL` button and paste it here. You can report multiple moves per character.
 
 **What's wrong**
-Describe what's wrong on the moves you mentioned above. You can use the following example format:
+Describe what's wrong on the moves you mentioned above. A few examples:
 - 2MK: Recovery should be 7f instead of 8f
-or
 - Crouching medium kick: Active frame data doesn't match hitbox images
+- Something else
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
