@@ -2,7 +2,7 @@
 name: Wrong data report
 about: Create a report for wrong data in sf6boxes
 title: "[WRONG DATA] Wrong data report"
-labels: Wrong data
+labels: ''
 assignees: happye921
 
 ---
